@@ -1,0 +1,54 @@
+\documentclass[a4paper,11pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[brazil]{babel}
+\usepackage{geometry}
+\geometry{a4paper, margin=2cm}
+\usepackage{enumitem}
+\usepackage{hyperref}
+
+\begin{document}
+
+\begin{center}
+    {\LARGE \textbf{Paola Victoria Matos Mota}} \\[0.2cm]
+    \href{mailto:georgecontattoreal@gmail.com}{georgecontatoreal@gmail.com} \\
+\end{center}
+
+\vspace{0.5cm}
+
+\section*{Objetivo}
+Atuar na área de Tecnologia da Informação, aplicando conhecimentos em análise e desenvolvimento de sistemas para contribuir com soluções inovadoras e sustentáveis.
+
+\section*{Formação Acadêmica}
+\begin{itemize}[leftmargin=*]
+    \item \textbf{Cursando Análise e Desenvolvimento de Sistemas} – Instituição X (Ano de início – previsão de conclusão)
+\end{itemize}
+
+\section*{Experiência Profissional}
+\begin{itemize}[leftmargin=*]
+    \item \textbf{Cargo} – Empresa A (Ano – Ano) \\
+    Principais atividades e responsabilidades.
+    \item \textbf{Cargo} – Empresa B (Ano – Ano) \\
+    Principais atividades e responsabilidades.
+\end{itemize}
+
+\section*{Projetos}
+\begin{itemize}[leftmargin=*]
+    \item Projeto 1 – Breve descrição do que foi desenvolvido.
+    \item Projeto 2 – Breve descrição do impacto ou resultado.
+\end{itemize}
+
+\section*{Habilidades}
+\begin{itemize}[leftmargin=*]
+    \item Linguagens de Programação: Python, Java, C++
+    \item Ferramentas: Git, Docker, Figma
+    \item Idiomas: Português (nativo), Inglês (avançado)
+\end{itemize}
+
+\section*{Certificações}
+\begin{itemize}[leftmargin=*]
+    \item Certificação X – Instituição (Ano)
+    \item Certificação Y – Instituição (Ano)
+\end{itemize}
+
+\end{document}
